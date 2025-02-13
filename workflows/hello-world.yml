@@ -13,5 +13,5 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Echo text
+      - name: Echo text1
         run: echo "Hello, world!"
